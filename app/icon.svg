@@ -1,0 +1,18 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="badgeClip">
+      <rect x="24" y="58" width="208" height="140" rx="24" ry="24" />
+    </clipPath>
+  </defs>
+  <rect width="256" height="256" rx="56" fill="#F7F9FC"/>
+  <g clip-path="url(#badgeClip)">
+    <rect x="24" y="58" width="208" height="140" fill="#0A2E6F"/>
+    <polygon points="154,58 232,58 232,198 194,198" fill="#F91D3B"/>
+    <circle cx="56" cy="128" r="12" fill="#FFFFFF"/>
+    <circle cx="125" cy="95" r="22" fill="#FFFFFF"/>
+    <path d="M105 117C118 112 132 112 142 118L156 126C164 130 170 138 172 148L176 170L148 170L138 146L132 168L92 168L100 138C102 128 102 123 105 117Z" fill="#FFFFFF"/>
+    <path d="M150 78L188 57L205 71L164 96L150 78Z" fill="#FFFFFF"/>
+    <path d="M169 95L205 69L214 80L177 106L169 95Z" fill="#FFFFFF"/>
+  </g>
+  <rect x="24" y="58" width="208" height="140" rx="24" ry="24" stroke="#FFFFFF" stroke-width="10"/>
+</svg>

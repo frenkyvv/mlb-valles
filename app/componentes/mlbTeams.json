@@ -1,0 +1,272 @@
+[
+  {
+    "apiName": "Arizona Diamondbacks",
+    "shortName": "Diamondbacks",
+    "abbreviation": "ARI",
+    "primaryColor": "#A71930",
+    "secondaryColor": "#E3D4AD",
+    "accentColor": "#000000",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/ari.png"
+  },
+  {
+    "apiName": "Atlanta Braves",
+    "shortName": "Braves",
+    "abbreviation": "ATL",
+    "primaryColor": "#CE1141",
+    "secondaryColor": "#13274F",
+    "accentColor": "#EAAA00",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/atl.png"
+  },
+  {
+    "apiName": "Baltimore Orioles",
+    "shortName": "Orioles",
+    "abbreviation": "BAL",
+    "primaryColor": "#DF4601",
+    "secondaryColor": "#000000",
+    "accentColor": "#ffffff",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/bal.png"
+  },
+  {
+    "apiName": "Boston Red Sox",
+    "shortName": "Red Sox",
+    "abbreviation": "BOS",
+    "primaryColor": "#BD3039",
+    "secondaryColor": "#0D2B56",
+    "accentColor": "#BD3039",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/bos.png"
+  },
+  {
+    "apiName": "Chicago Cubs",
+    "shortName": "Cubs",
+    "abbreviation": "CHC",
+    "primaryColor": "#0E3386",
+    "secondaryColor": "#CC3433",
+    "accentColor": "#ffffff",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/chc.png"
+  },
+  {
+    "apiName": "Chicago White Sox",
+    "shortName": "White Sox",
+    "abbreviation": "CWS",
+    "primaryColor": "#27251F",
+    "secondaryColor": "#C4CED4",
+    "accentColor": "#ffffff",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/chw.png"
+  },
+  {
+    "apiName": "Cincinnati Reds",
+    "shortName": "Reds",
+    "abbreviation": "CIN",
+    "primaryColor": "#C6011F",
+    "secondaryColor": "#000000",
+    "accentColor": "#ffffff",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/cin.png"
+  },
+  {
+    "apiName": "Cleveland Guardians",
+    "shortName": "Guardians",
+    "abbreviation": "CLE",
+    "primaryColor": "#00385D",
+    "secondaryColor": "#E31937",
+    "accentColor": "#ffffff",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/cle.png"
+  },
+  {
+    "apiName": "Colorado Rockies",
+    "shortName": "Rockies",
+    "abbreviation": "COL",
+    "primaryColor": "#33006F",
+    "secondaryColor": "#C4CED4",
+    "accentColor": "#ffffff",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/col.png"
+  },
+  {
+    "apiName": "Detroit Tigers",
+    "shortName": "Tigers",
+    "abbreviation": "DET",
+    "primaryColor": "#0C2340",
+    "secondaryColor": "#FA4616",
+    "accentColor": "#ffffff",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/det.png"
+  },
+  {
+    "apiName": "Houston Astros",
+    "shortName": "Astros",
+    "abbreviation": "HOU",
+    "primaryColor": "#002D62",
+    "secondaryColor": "#EB6E1F",
+    "accentColor": "#F4911E",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/hou.png"
+  },
+  {
+    "apiName": "Kansas City Royals",
+    "shortName": "Royals",
+    "abbreviation": "KC",
+    "primaryColor": "#004687",
+    "secondaryColor": "#C09A5B",
+    "accentColor": "#ffffff",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/kc.png"
+  },
+  {
+    "apiName": "Los Angeles Angels",
+    "shortName": "Angels",
+    "abbreviation": "LAA",
+    "primaryColor": "#BA0021",
+    "secondaryColor": "#003263",
+    "accentColor": "#862633",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/laa.png"
+  },
+  {
+    "apiName": "Los Angeles Dodgers",
+    "shortName": "Dodgers",
+    "abbreviation": "LAD",
+    "primaryColor": "#005A9C",
+    "secondaryColor": "#EF3E42",
+    "accentColor": "#ffffff",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/lad.png"
+  },
+  {
+    "apiName": "Miami Marlins",
+    "shortName": "Marlins",
+    "abbreviation": "MIA",
+    "primaryColor": "#00A3E0",
+    "secondaryColor": "#EF3340",
+    "accentColor": "#FFD100",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/mia.png"
+  },
+  {
+    "apiName": "Milwaukee Brewers",
+    "shortName": "Brewers",
+    "abbreviation": "MIL",
+    "primaryColor": "#12284B",
+    "secondaryColor": "#FFC52F",
+    "accentColor": "#FFC52F",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/mil.png"
+  },
+  {
+    "apiName": "Minnesota Twins",
+    "shortName": "Twins",
+    "abbreviation": "MIN",
+    "primaryColor": "#002B5C",
+    "secondaryColor": "#D31145",
+    "accentColor": "#B9975B",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/min.png"
+  },
+  {
+    "apiName": "New York Mets",
+    "shortName": "Mets",
+    "abbreviation": "NYM",
+    "primaryColor": "#002D72",
+    "secondaryColor": "#FF5910",
+    "accentColor": "#ffffff",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nym.png"
+  },
+  {
+    "apiName": "New York Yankees",
+    "shortName": "Yankees",
+    "abbreviation": "NYY",
+    "primaryColor": "#003087",
+    "secondaryColor": "#003087",
+    "accentColor": "#C4CED4",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png"
+  },
+  {
+    "apiName": "Oakland Athletics",
+    "shortName": "Athletics",
+    "abbreviation": "OAK",
+    "primaryColor": "#003831",
+    "secondaryColor": "#EFB21E",
+    "accentColor": "#EFB21E",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/oak.png"
+  },
+  {
+    "apiName": "Philadelphia Phillies",
+    "shortName": "Phillies",
+    "abbreviation": "PHI",
+    "primaryColor": "#E81828",
+    "secondaryColor": "#002D72",
+    "accentColor": "#ffffff",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/phi.png"
+  },
+  {
+    "apiName": "Pittsburgh Pirates",
+    "shortName": "Pirates",
+    "abbreviation": "PIT",
+    "primaryColor": "#27251F",
+    "secondaryColor": "#FDB827",
+    "accentColor": "#FDB827",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/pit.png"
+  },
+  {
+    "apiName": "San Diego Padres",
+    "shortName": "Padres",
+    "abbreviation": "SD",
+    "primaryColor": "#2F241D",
+    "secondaryColor": "#FFC425",
+    "accentColor": "#FFC425",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sd.png"
+  },
+  {
+    "apiName": "San Francisco Giants",
+    "shortName": "Giants",
+    "abbreviation": "SF",
+    "primaryColor": "#FD5A1E",
+    "secondaryColor": "#27251F",
+    "accentColor": "#EFD19F",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sf.png"
+  },
+  {
+    "apiName": "Seattle Mariners",
+    "shortName": "Mariners",
+    "abbreviation": "SEA",
+    "primaryColor": "#0C2C56",
+    "secondaryColor": "#005C5C",
+    "accentColor": "#C4CED4",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sea.png"
+  },
+  {
+    "apiName": "St. Louis Cardinals",
+    "shortName": "Cardinals",
+    "abbreviation": "STL",
+    "primaryColor": "#C41E3A",
+    "secondaryColor": "#0C2340",
+    "accentColor": "#FEDB00",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/stl.png"
+  },
+  {
+    "apiName": "Tampa Bay Rays",
+    "shortName": "Rays",
+    "abbreviation": "TB",
+    "primaryColor": "#092C5C",
+    "secondaryColor": "#8FBCE6",
+    "accentColor": "#F5D130",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tb.png"
+  },
+  {
+    "apiName": "Texas Rangers",
+    "shortName": "Rangers",
+    "abbreviation": "TEX",
+    "primaryColor": "#003278",
+    "secondaryColor": "#C0111F",
+    "accentColor": "#ffffff",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tex.png"
+  },
+  {
+    "apiName": "Toronto Blue Jays",
+    "shortName": "Blue Jays",
+    "abbreviation": "TOR",
+    "primaryColor": "#134A8E",
+    "secondaryColor": "#1D2D5C",
+    "accentColor": "#E8291C",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tor.png"
+  },
+  {
+    "apiName": "Washington Nationals",
+    "shortName": "Nationals",
+    "abbreviation": "WSH",
+    "primaryColor": "#AB0003",
+    "secondaryColor": "#14225A",
+    "accentColor": "#ffffff",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/wsh.png"
+  }
+]
