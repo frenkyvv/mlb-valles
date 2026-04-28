@@ -1196,6 +1196,7 @@ function HomeContent() {
     }),
   }));
 
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const heroCallout = overview?.liveGame
     ? {
         eyebrow: 'Marcador en vivo',
@@ -1215,6 +1216,7 @@ function HomeContent() {
             'Selecciona un equipo para ver momios, clasificacion contextual, historial reciente, marcador en vivo y jugadores clave desde una sola vista.',
         };
 
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const heroMetrics = overview?.liveGame
     ? [
         {
@@ -1387,6 +1389,7 @@ function HomeContent() {
 
   // ── Division grouping for sidebar ──
   const divisionOrder = ['AL East', 'AL Central', 'AL West', 'NL East', 'NL Central', 'NL West'];
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const teamsByDivision = divisionOrder.reduce<Record<string, TeamOption[]>>((acc, div) => {
     acc[div] = orderedTeams.filter((t) => `${t.leagueName} ${t.divisionName}`.includes(div.split(' ').slice(1).join(' ')) && t.leagueName.startsWith(div.split(' ')[0]));
     return acc;
