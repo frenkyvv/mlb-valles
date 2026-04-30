@@ -1512,14 +1512,16 @@ function HomeContent() {
             <>
               {/* Team Hero Banner */}
               <div className={styles.teamHeroBanner}>
-                <Image
-                  className={styles.teamHeroLogo}
-                  src={overview.team.logo}
-                  alt={overview.team.displayName}
-                  width={76}
-                  height={76}
-                  unoptimized
-                />
+                <div className={styles.teamHeroLogoWrap}>
+                  <Image
+                    className={styles.teamHeroLogo}
+                    src={overview.team.logo}
+                    alt={overview.team.displayName}
+                    width={62}
+                    height={62}
+                    unoptimized
+                  />
+                </div>
                 <div className={styles.teamHeroInfo}>
                   <h1 className={styles.teamHeroName}>{overview.team.displayName}</h1>
                   <p className={styles.teamHeroSub}>

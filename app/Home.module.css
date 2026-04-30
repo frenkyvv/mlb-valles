@@ -261,18 +261,31 @@
   pointer-events: none;
 }
 
-.teamHeroLogo {
-  width: 76px;
-  height: 76px;
-  object-fit: contain;
-  filter: drop-shadow(0 4px 12px rgba(0,0,0,0.28));
+.teamHeroLogoWrap {
+  width: 86px;
+  height: 86px;
   flex-shrink: 0;
   position: relative;
   z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.18);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  box-shadow: 0 0 0 1px rgba(255,255,255,0.22), 0 4px 16px rgba(0,0,0,0.22);
   transition: transform 0.3s ease;
 }
 
-.teamHeroLogo:hover { transform: scale(1.06); }
+.teamHeroLogoWrap:hover { transform: scale(1.06); }
+
+.teamHeroLogo {
+  width: 62px;
+  height: 62px;
+  object-fit: contain;
+  filter: drop-shadow(0 2px 6px rgba(0,0,0,0.22));
+}
 
 .teamHeroInfo {
   flex: 1;
@@ -828,7 +841,7 @@
   display: flex;
   align-items: flex-end;
   gap: 5px;
-  height: 110px;
+  height: 164px;
   overflow-x: auto;
   padding-bottom: 2px;
 }
@@ -837,23 +850,26 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 3px;
+  gap: 4px;
   flex-shrink: 0;
-  width: 42px;
+  width: 44px;
 }
 
-.formLogoWrap { width: 26px; height: 26px; flex-shrink: 0; }
-
-.formLogo { width: 26px !important; height: 26px !important; object-fit: contain; }
-
-.formLogoFallback {
-  width: 26px;
-  height: 26px;
-  background: #e5e7eb;
+.formLogoWrap {
+  width: 32px;
+  height: 32px;
+  flex-shrink: 0;
+  background: rgba(255,255,255,0.85);
   border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+}
+
+.formLogo { width: 24px !important; height: 24px !important; object-fit: contain; }
+
+.formLogoFallback {
   font-size: 0.52rem;
   font-weight: 700;
   color: #6b7280;
@@ -864,7 +880,7 @@
   display: flex;
   align-items: flex-end;
   width: 100%;
-  height: 56px;
+  height: 90px;
 }
 
 .formBar {
